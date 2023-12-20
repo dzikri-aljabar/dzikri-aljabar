@@ -5,6 +5,8 @@ menuIcon.addEventListener("click", () => {
     menuList.classList.toggle('hiden')
 })
 
+alert("Maaf jika masih banyak bug nya karena masih dalam pengembangan.");
+
 // kirim email
 
 const form = document.querySelector('form')
