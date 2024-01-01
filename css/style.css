@@ -212,12 +212,18 @@ nav>:hover,
     width: 16rem;
     height: 19rem;
     object-fit: contain;
-    filter: blur(3px);
+    filter: blur(1px);
+}
+
+.pj-link {
+    text-decoration: none;
+    color: #ededed;
 }
 
 .ket-pj {
     position: absolute;
     color: #EFE8E8;
+    text-align: center;
 }
 
 /* contact */
